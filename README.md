@@ -1,7 +1,7 @@
 sh1106
 ======
 
-An Arduino library for the SH1106 LCD chipset
+A Spark library for the SH1106 OLED display
 
 Features:
 	text display with scrolling
